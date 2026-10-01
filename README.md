@@ -1,4 +1,5 @@
-Edit B Я учусь работать с GitHub
+
+Edit B <> Я учусь работать с GitHub = Версия А
 
 # pm-practice
 
