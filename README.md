@@ -1,4 +1,4 @@
-Я учусь работать с GitHub
+Edit B Я учусь работать с GitHub
 
 # pm-practice
 
